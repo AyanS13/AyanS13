@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayans13" alt="ayans13" /></a> </p>
 
-- 🔭 I’m currently working on **Simulation of image motion due to turbulence of atmosphere and correction using Shack-Hartmann based Adaptive Optics**
+- 🔭 I’m currently working on **Simulation of image motion due to turbulence of atmosphere seeing profiler using Shack-Hartmann based Wavefront sensors**
 
 - 👯 I’m looking to collaborate on **computational modelling of optical instruments and astronomical data analysis**
 
