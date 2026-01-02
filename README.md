@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayans13&label=Profile%20views&color=0e75b6&style=flat" alt="ayans13" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayans13" alt="ayans13" /></a> </p>
-
 - 🔭 Most recently I worked on **Simulation of image motion due to turbulence of atmosphere and extracting turbulence characteristics/profiles using Shack-Hartmann based Wavefront sensors and developed code to control hardware components of the instrument and analyze data in real time.**
 
 - 👯 I’m looking to collaborate on **computational modelling of optical instruments and astronomical data analysis**
